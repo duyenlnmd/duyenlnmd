@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## About Me
 
 - 👋 Hi, I’m Duyen Le!
-- 🌱 I’m currently learning Astronomy, ReactJS, MySQL, etc.
+- 🌱 I’m currently learning Astronomy, Marketing, NextJS, GraphQL, TypeScript, etc.
 - 💞️ I’m looking to collaborate on any projects that would be beneficial to the future of humanity
 
 
