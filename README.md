@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Duyen Le!
 - 🌱 I’m currently learning Astronomy, ReactJS, MySQL, etc.
-- 💞️ I’m looking to collaborate on any projects that would be beneficial to the future of humanity.
+- 💞️ I’m looking to collaborate on any projects that would be beneficial to the future of humanity
 
 
 ## 🚀 Languages and Tools:
@@ -36,7 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/duyenlnmd/github-readme-activity-graph"><img alt="Aakashrao-dev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=duyenlnmd&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-![Metrics](/github-metrics.svg)
 
 ## Connect with me:
 
